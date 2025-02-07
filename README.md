@@ -10,7 +10,7 @@ An efficient Retrieval-Augmented Generation (RAG) pipeline integrating Google Ge
 
 📂 Installation
 
-git clone [https://github.com/yourusername/Simple-Local-RAG-LLM.git ](https://github.com/97shivank/Simple-Local-RAG-LLM) 
+git clone [https://github.com/97shivank/Simple-Local-RAG-LLM.git]<br>
 cd Simple-Local-RAG-LLM  
 pip install -r requirements.txt
 
