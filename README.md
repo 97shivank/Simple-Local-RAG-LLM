@@ -8,13 +8,13 @@ An efficient Retrieval-Augmented Generation (RAG) pipeline integrating Google Ge
 	•	🧠 Google Gemini LLM Integration: Fine-tuned for accurate and high-quality responses.
 	•	🤖 Retrieval-Augmented Generation (RAG): Enhances LLM-generated answers with retrieved document content for improved relevance.
 
-📂 Installation
+## **Installation**
 
 git clone [https://github.com/97shivank/Simple-Local-RAG-LLM.git]<br>
 cd Simple-Local-RAG-LLM  
 pip install -r requirements.txt
 
-📜 Usage
+## **Usage**
 
 1️⃣ Download & Extract Text from PDF
 
@@ -38,14 +38,14 @@ from llm import generate_response
 response = generate_response(relevant_chunks)  
 print(response)  
 
-⚙️ Tech Stack
+## **Tech Stack**
 	•	Python, Sentence-Transformers, FAISS, Google Gemini API
 	•	RAG (Retrieval-Augmented Generation) Pipeline
 
-🏗️ Future Enhancements
+## **Future Enhancements**
 	•	✅ Support for multiple document formats (TXT, DOCX, HTML).
 	•	✅ UI-based query interface.
 
-📜 License
+## **License**
 
 This project is licensed under the MIT License.
