@@ -1,8 +1,8 @@
-Simple Local RAG LLM Model
-
+# **Simple Local RAG LLM Model**
+![RAG Pipeline Workflow](image.png)
 An efficient Retrieval-Augmented Generation (RAG) pipeline integrating Google Gemini LLM, Sentence-Transformers, and vector-based search to retrieve and generate contextually relevant answers from PDF documents.
 
-Features
+## **Features**
 	•	📄 PDF Processing: Extracts and tokenizes text from PDFs for chunking.
 	•	🔍 Vector Embeddings & Search: Uses Sentence-Transformers for document chunk embedding and Approximate Nearest Neighbor (ANN) search.
 	•	🧠 Google Gemini LLM Integration: Fine-tuned for accurate and high-quality responses.
